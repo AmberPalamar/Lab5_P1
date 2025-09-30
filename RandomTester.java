@@ -17,7 +17,7 @@ public class RandomTester
 {
     private ran random;
 
-
+//constructor
 public void printOneRandom()
 {
     system.out.println("The random number is:" + ran.nextInt(50));
