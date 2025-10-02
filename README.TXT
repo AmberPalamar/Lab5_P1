@@ -28,3 +28,15 @@ The purpose of this project is to demonstrate and study library classes, such
 as ArrayList, HashMap, HashSet, and Random.
 
 This project is only a first, rudimentary step towards the full solution.
+
+
+Answers:
+24. Hashmaps allow you to store data in the form of key-value pairs. 
+25. get, containsKey, put, putAll, remove, containsValue, getOrDefault, putIfAbsent, replace, replaceAll, forEach, merge, compute, computeIfPresent, computeIfAbsent
+26. size()
+27. 
+28. It replaces the previous value.
+29. Both get added to the map.
+30. Use the containskey() method
+31.
+32. By using the forEach method to print each entry in the map.
