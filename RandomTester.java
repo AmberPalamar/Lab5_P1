@@ -15,7 +15,7 @@
 
 public class RandomTester
 {
-    private ran random;
+    private String ran;
 
 //constructor
 public void printOneRandom()
@@ -31,6 +31,7 @@ public void printMultiRandom(int howManyTimes)
         counter++;
     }
 }
+
 
 public class SupportSystem
 {
